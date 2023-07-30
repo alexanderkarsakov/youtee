@@ -1,2 +1,2 @@
-# Yuotube clone project - YouTee (React)
+# Search video platform - YouTee (React, FastAPI)
 
