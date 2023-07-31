@@ -1,2 +1,3 @@
-# Search video platform - YouTee (React, FastAPI)
+# Search video platform Youtee
 
+Search video platform using React and FastAPI.
